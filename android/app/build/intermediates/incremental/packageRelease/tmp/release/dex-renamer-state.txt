@@ -1,0 +1,4 @@
+#Sun May 29 07:35:39 WAT 2022
+base.0=/home/takam/projectReact/calculatrice/android/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

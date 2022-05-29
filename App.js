@@ -5,14 +5,15 @@
  * @format
  * @flow strict-local
  */
-
+//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
 import React, { createContext, useState } from 'react';
 import {
   StyleSheet,
   Text,
   Button,
   View,
-  TouchableOpacity
+  TouchableOpacity,
+  ScrollView
 } from 'react-native';
 
 
@@ -99,7 +100,9 @@ function calculResult (){
   return (
     <View style={styles.container}>
       <View style={styles.result}>
-        <Text style={styles.resultText}>{result}</Text>
+        <ScrollView>
+          <Text style={styles.resultText}>{result}</Text>
+        </ScrollView>
       </View>
       <View style={styles.calcul}>
         <Text style={styles.calculText}>{textRes}</Text>

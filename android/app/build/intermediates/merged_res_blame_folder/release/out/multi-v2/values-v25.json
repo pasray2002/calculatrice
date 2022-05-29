@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/takam/projectReact/projet/calculatrice/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml",
+            "outputFile": "/home/takam/projectReact/calculatrice/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml",
             "map": [
                 {
                     "source": "/home/takam/.gradle/caches/transforms-3/acc940f9d1e2fbe78507503786269365/transformed/appcompat-1.0.2/res/values-v25/values-v25.xml",
